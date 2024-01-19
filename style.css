@@ -1,0 +1,48 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(220, 228, 234);
+}
+
+form{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    max-width: 450px;
+    margin: auto;
+    padding: 25px;
+    border-radius: 25px;
+}
+
+#userinput{
+    margin-bottom: 16px;
+    font-size: 1.5em;
+    text-align: center;
+    padding: 8px;
+    border-radius: 10px;
+    border-style: none;
+    background-color: rgb(220, 220, 220);
+    font-weight: bold;
+}
+
+label{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+button{
+    margin-top: 25px;
+    font-size: 1.2em;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-weight: bold;
+    color: white;
+    background-color: #34BE82;
+    border-style: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #248d5f;
+}
